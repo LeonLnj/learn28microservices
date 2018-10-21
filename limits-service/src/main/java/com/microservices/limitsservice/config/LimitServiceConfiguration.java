@@ -14,3 +14,4 @@ public class LimitServiceConfiguration {
 	private int maximum;
 
 }
+	
